@@ -1,8 +1,16 @@
 Codesis Website project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Getting Started
+1. Goto the [codesis-website](https://github.com/The-Codesis/codesis-website/) repository
+2. Click on the Fork button in the upper right corner.
+3. Clone the forked repository on your local machine
+```
+git clone https://github.com/<your username>/codesis-website.git
+```
+4. To install the dependencies ,in the project directory you can run:
+### `yarn install`
 
-In the project directory, you can run:
+5. Once the dependencies are installed,run:
 
 ### `yarn start`
 
